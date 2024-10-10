@@ -1,0 +1,29 @@
+scalar DateTime
+
+#type Query {
+#    Green(limit: Int!, offset: Int = 0): [Events!]!
+#    TripsByPickupLocation(userid: String!): [EventsLiked!]!
+#    TripsByDropoffLocation(userid: String!, limit: Int!=10): [RecommendedEvents!]
+#    TotalMalformedRows(query: String!, userid: String!, limit: Int!=10): [PersonalizedEventSearch!]
+#}
+
+type validTrips {
+    vendorid : Int!
+    lpep_pickup_datetime: DateTime
+    lpep_dropoff_datetime: DateTime
+    PULocationID: Int!
+    DOLocationID: Int!
+}
+
+type TripsByPickupLocation {
+    frompul : Int
+
+}
+
+type TripsByDropoffLocation {
+    fromdoloc : Int
+}
+
+type TotalMalformedRows {
+    nopassengers : Int
+}

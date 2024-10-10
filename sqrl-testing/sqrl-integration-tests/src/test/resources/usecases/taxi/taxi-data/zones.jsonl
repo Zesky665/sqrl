@@ -1,0 +1,265 @@
+{"LocationID": 1, "Borough": "EWR", "Zone": "Newark Airport", "service_zone": "EWR", "timestamp": "2023-01-01T00:00:00Z"}
+{"LocationID": 2, "Borough": "Queens", "Zone": "Jamaica Bay", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:01Z"}
+{"LocationID": 3, "Borough": "Bronx", "Zone": "Allerton/Pelham Gardens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:02Z"}
+{"LocationID": 4, "Borough": "Manhattan", "Zone": "Alphabet City", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:03Z"}
+{"LocationID": 5, "Borough": "Staten Island", "Zone": "Arden Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:04Z"}
+{"LocationID": 6, "Borough": "Staten Island", "Zone": "Arrochar/Fort Wadsworth", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:05Z"}
+{"LocationID": 7, "Borough": "Queens", "Zone": "Astoria", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:06Z"}
+{"LocationID": 8, "Borough": "Queens", "Zone": "Astoria Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:07Z"}
+{"LocationID": 9, "Borough": "Queens", "Zone": "Auburndale", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:08Z"}
+{"LocationID": 10, "Borough": "Queens", "Zone": "Baisley Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:09Z"}
+{"LocationID": 11, "Borough": "Brooklyn", "Zone": "Bath Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:10Z"}
+{"LocationID": 12, "Borough": "Manhattan", "Zone": "Battery Park", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:11Z"}
+{"LocationID": 13, "Borough": "Manhattan", "Zone": "Battery Park City", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:12Z"}
+{"LocationID": 14, "Borough": "Brooklyn", "Zone": "Bay Ridge", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:13Z"}
+{"LocationID": 15, "Borough": "Queens", "Zone": "Bay Terrace/Fort Totten", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:14Z"}
+{"LocationID": 16, "Borough": "Queens", "Zone": "Bayside", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:15Z"}
+{"LocationID": 17, "Borough": "Brooklyn", "Zone": "Bedford", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:16Z"}
+{"LocationID": 18, "Borough": "Bronx", "Zone": "Bedford Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:17Z"}
+{"LocationID": 19, "Borough": "Queens", "Zone": "Bellerose", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:18Z"}
+{"LocationID": 20, "Borough": "Bronx", "Zone": "Belmont", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:19Z"}
+{"LocationID": 21, "Borough": "Brooklyn", "Zone": "Bensonhurst East", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:20Z"}
+{"LocationID": 22, "Borough": "Brooklyn", "Zone": "Bensonhurst West", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:21Z"}
+{"LocationID": 23, "Borough": "Staten Island", "Zone": "Bloomfield/Emerson Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:22Z"}
+{"LocationID": 24, "Borough": "Manhattan", "Zone": "Bloomingdale", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:23Z"}
+{"LocationID": 25, "Borough": "Brooklyn", "Zone": "Boerum Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:24Z"}
+{"LocationID": 26, "Borough": "Brooklyn", "Zone": "Borough Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:25Z"}
+{"LocationID": 27, "Borough": "Queens", "Zone": "Breezy Point/Fort Tilden/Riis Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:26Z"}
+{"LocationID": 28, "Borough": "Queens", "Zone": "Briarwood/Jamaica Hills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:27Z"}
+{"LocationID": 29, "Borough": "Brooklyn", "Zone": "Brighton Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:28Z"}
+{"LocationID": 30, "Borough": "Queens", "Zone": "Broad Channel", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:29Z"}
+{"LocationID": 31, "Borough": "Bronx", "Zone": "Bronx Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:30Z"}
+{"LocationID": 32, "Borough": "Bronx", "Zone": "Bronxdale", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:31Z"}
+{"LocationID": 33, "Borough": "Brooklyn", "Zone": "Brooklyn Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:32Z"}
+{"LocationID": 34, "Borough": "Brooklyn", "Zone": "Brooklyn Navy Yard", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:33Z"}
+{"LocationID": 35, "Borough": "Brooklyn", "Zone": "Brownsville", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:34Z"}
+{"LocationID": 36, "Borough": "Brooklyn", "Zone": "Bushwick North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:35Z"}
+{"LocationID": 37, "Borough": "Brooklyn", "Zone": "Bushwick South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:36Z"}
+{"LocationID": 38, "Borough": "Queens", "Zone": "Cambria Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:37Z"}
+{"LocationID": 39, "Borough": "Brooklyn", "Zone": "Canarsie", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:38Z"}
+{"LocationID": 40, "Borough": "Brooklyn", "Zone": "Carroll Gardens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:39Z"}
+{"LocationID": 41, "Borough": "Manhattan", "Zone": "Central Harlem", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:40Z"}
+{"LocationID": 42, "Borough": "Manhattan", "Zone": "Central Harlem North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:41Z"}
+{"LocationID": 43, "Borough": "Manhattan", "Zone": "Central Park", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:42Z"}
+{"LocationID": 44, "Borough": "Staten Island", "Zone": "Charleston/Tottenville", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:43Z"}
+{"LocationID": 45, "Borough": "Manhattan", "Zone": "Chinatown", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:44Z"}
+{"LocationID": 46, "Borough": "Bronx", "Zone": "City Island", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:45Z"}
+{"LocationID": 47, "Borough": "Bronx", "Zone": "Claremont/Bathgate", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:46Z"}
+{"LocationID": 48, "Borough": "Manhattan", "Zone": "Clinton East", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:47Z"}
+{"LocationID": 49, "Borough": "Brooklyn", "Zone": "Clinton Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:48Z"}
+{"LocationID": 50, "Borough": "Manhattan", "Zone": "Clinton West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:00:49Z"}
+{"LocationID": 51, "Borough": "Bronx", "Zone": "Co-Op City", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:50Z"}
+{"LocationID": 52, "Borough": "Brooklyn", "Zone": "Cobble Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:51Z"}
+{"LocationID": 53, "Borough": "Queens", "Zone": "College Point", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:52Z"}
+{"LocationID": 54, "Borough": "Brooklyn", "Zone": "Columbia Street", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:53Z"}
+{"LocationID": 55, "Borough": "Brooklyn", "Zone": "Coney Island", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:54Z"}
+{"LocationID": 56, "Borough": "Queens", "Zone": "Corona", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:55Z"}
+{"LocationID": 57, "Borough": "Queens", "Zone": "Corona", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:56Z"}
+{"LocationID": 58, "Borough": "Bronx", "Zone": "Country Club", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:57Z"}
+{"LocationID": 59, "Borough": "Bronx", "Zone": "Crotona Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:58Z"}
+{"LocationID": 60, "Borough": "Bronx", "Zone": "Crotona Park East", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:00:59Z"}
+{"LocationID": 61, "Borough": "Brooklyn", "Zone": "Crown Heights North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:00Z"}
+{"LocationID": 62, "Borough": "Brooklyn", "Zone": "Crown Heights South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:01Z"}
+{"LocationID": 63, "Borough": "Brooklyn", "Zone": "Cypress Hills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:02Z"}
+{"LocationID": 64, "Borough": "Queens", "Zone": "Douglaston", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:03Z"}
+{"LocationID": 65, "Borough": "Brooklyn", "Zone": "Downtown Brooklyn/MetroTech", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:04Z"}
+{"LocationID": 66, "Borough": "Brooklyn", "Zone": "DUMBO/Vinegar Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:05Z"}
+{"LocationID": 67, "Borough": "Brooklyn", "Zone": "Dyker Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:06Z"}
+{"LocationID": 68, "Borough": "Manhattan", "Zone": "East Chelsea", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:07Z"}
+{"LocationID": 69, "Borough": "Bronx", "Zone": "East Concourse/Concourse Village", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:08Z"}
+{"LocationID": 70, "Borough": "Queens", "Zone": "East Elmhurst", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:09Z"}
+{"LocationID": 71, "Borough": "Brooklyn", "Zone": "East Flatbush/Farragut", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:10Z"}
+{"LocationID": 72, "Borough": "Brooklyn", "Zone": "East Flatbush/Remsen Village", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:11Z"}
+{"LocationID": 73, "Borough": "Queens", "Zone": "East Flushing", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:12Z"}
+{"LocationID": 74, "Borough": "Manhattan", "Zone": "East Harlem North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:13Z"}
+{"LocationID": 75, "Borough": "Manhattan", "Zone": "East Harlem South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:14Z"}
+{"LocationID": 76, "Borough": "Brooklyn", "Zone": "East New York", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:15Z"}
+{"LocationID": 77, "Borough": "Brooklyn", "Zone": "East New York/Pennsylvania Avenue", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:16Z"}
+{"LocationID": 78, "Borough": "Bronx", "Zone": "East Tremont", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:17Z"}
+{"LocationID": 79, "Borough": "Manhattan", "Zone": "East Village", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:18Z"}
+{"LocationID": 80, "Borough": "Brooklyn", "Zone": "East Williamsburg", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:19Z"}
+{"LocationID": 81, "Borough": "Bronx", "Zone": "Eastchester", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:20Z"}
+{"LocationID": 82, "Borough": "Queens", "Zone": "Elmhurst", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:21Z"}
+{"LocationID": 83, "Borough": "Queens", "Zone": "Elmhurst/Maspeth", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:22Z"}
+{"LocationID": 84, "Borough": "Staten Island", "Zone": "Eltingville/Annadale/Prince's Bay", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:23Z"}
+{"LocationID": 85, "Borough": "Brooklyn", "Zone": "Erasmus", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:24Z"}
+{"LocationID": 86, "Borough": "Queens", "Zone": "Far Rockaway", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:25Z"}
+{"LocationID": 87, "Borough": "Manhattan", "Zone": "Financial District North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:26Z"}
+{"LocationID": 88, "Borough": "Manhattan", "Zone": "Financial District South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:27Z"}
+{"LocationID": 89, "Borough": "Brooklyn", "Zone": "Flatbush/Ditmas Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:28Z"}
+{"LocationID": 90, "Borough": "Manhattan", "Zone": "Flatiron", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:29Z"}
+{"LocationID": 91, "Borough": "Brooklyn", "Zone": "Flatlands", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:30Z"}
+{"LocationID": 92, "Borough": "Queens", "Zone": "Flushing", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:31Z"}
+{"LocationID": 93, "Borough": "Queens", "Zone": "Flushing Meadows-Corona Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:32Z"}
+{"LocationID": 94, "Borough": "Bronx", "Zone": "Fordham South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:33Z"}
+{"LocationID": 95, "Borough": "Queens", "Zone": "Forest Hills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:34Z"}
+{"LocationID": 96, "Borough": "Queens", "Zone": "Forest Park/Highland Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:35Z"}
+{"LocationID": 97, "Borough": "Brooklyn", "Zone": "Fort Greene", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:36Z"}
+{"LocationID": 98, "Borough": "Queens", "Zone": "Fresh Meadows", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:37Z"}
+{"LocationID": 99, "Borough": "Staten Island", "Zone": "Freshkills Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:38Z"}
+{"LocationID": 100, "Borough": "Manhattan", "Zone": "Garment District", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:39Z"}
+{"LocationID": 101, "Borough": "Queens", "Zone": "Glen Oaks", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:40Z"}
+{"LocationID": 102, "Borough": "Queens", "Zone": "Glendale", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:41Z"}
+{"LocationID": 103, "Borough": "Manhattan", "Zone": "Governor's Island/Ellis Island/Liberty Island", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:42Z"}
+{"LocationID": 104, "Borough": "Manhattan", "Zone": "Governor's Island/Ellis Island/Liberty Island", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:43Z"}
+{"LocationID": 105, "Borough": "Manhattan", "Zone": "Governor's Island/Ellis Island/Liberty Island", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:44Z"}
+{"LocationID": 106, "Borough": "Brooklyn", "Zone": "Gowanus", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:45Z"}
+{"LocationID": 107, "Borough": "Manhattan", "Zone": "Gramercy", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:46Z"}
+{"LocationID": 108, "Borough": "Brooklyn", "Zone": "Gravesend", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:47Z"}
+{"LocationID": 109, "Borough": "Staten Island", "Zone": "Great Kills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:48Z"}
+{"LocationID": 110, "Borough": "Staten Island", "Zone": "Great Kills Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:49Z"}
+{"LocationID": 111, "Borough": "Brooklyn", "Zone": "Green-Wood Cemetery", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:50Z"}
+{"LocationID": 112, "Borough": "Brooklyn", "Zone": "Greenpoint", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:51Z"}
+{"LocationID": 113, "Borough": "Manhattan", "Zone": "Greenwich Village North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:52Z"}
+{"LocationID": 114, "Borough": "Manhattan", "Zone": "Greenwich Village South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:01:53Z"}
+{"LocationID": 115, "Borough": "Staten Island", "Zone": "Grymes Hill/Clifton", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:54Z"}
+{"LocationID": 116, "Borough": "Manhattan", "Zone": "Hamilton Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:55Z"}
+{"LocationID": 117, "Borough": "Queens", "Zone": "Hammels/Arverne", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:56Z"}
+{"LocationID": 118, "Borough": "Staten Island", "Zone": "Heartland Village/Todt Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:57Z"}
+{"LocationID": 119, "Borough": "Bronx", "Zone": "Highbridge", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:58Z"}
+{"LocationID": 120, "Borough": "Manhattan", "Zone": "Highbridge Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:01:59Z"}
+{"LocationID": 121, "Borough": "Queens", "Zone": "Hillcrest/Pomonok", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:00Z"}
+{"LocationID": 122, "Borough": "Queens", "Zone": "Hollis", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:01Z"}
+{"LocationID": 123, "Borough": "Brooklyn", "Zone": "Homecrest", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:02Z"}
+{"LocationID": 124, "Borough": "Queens", "Zone": "Howard Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:03Z"}
+{"LocationID": 125, "Borough": "Manhattan", "Zone": "Hudson Sq", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:04Z"}
+{"LocationID": 126, "Borough": "Bronx", "Zone": "Hunts Point", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:05Z"}
+{"LocationID": 127, "Borough": "Manhattan", "Zone": "Inwood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:06Z"}
+{"LocationID": 128, "Borough": "Manhattan", "Zone": "Inwood Hill Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:07Z"}
+{"LocationID": 129, "Borough": "Queens", "Zone": "Jackson Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:08Z"}
+{"LocationID": 130, "Borough": "Queens", "Zone": "Jamaica", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:09Z"}
+{"LocationID": 131, "Borough": "Queens", "Zone": "Jamaica Estates", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:10Z"}
+{"LocationID": 132, "Borough": "Queens", "Zone": "JFK Airport", "service_zone": "Airports", "timestamp": "2023-01-01T00:02:11Z"}
+{"LocationID": 133, "Borough": "Brooklyn", "Zone": "Kensington", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:12Z"}
+{"LocationID": 134, "Borough": "Queens", "Zone": "Kew Gardens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:13Z"}
+{"LocationID": 135, "Borough": "Queens", "Zone": "Kew Gardens Hills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:14Z"}
+{"LocationID": 136, "Borough": "Bronx", "Zone": "Kingsbridge Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:15Z"}
+{"LocationID": 137, "Borough": "Manhattan", "Zone": "Kips Bay", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:16Z"}
+{"LocationID": 138, "Borough": "Queens", "Zone": "LaGuardia Airport", "service_zone": "Airports", "timestamp": "2023-01-01T00:02:17Z"}
+{"LocationID": 139, "Borough": "Queens", "Zone": "Laurelton", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:18Z"}
+{"LocationID": 140, "Borough": "Manhattan", "Zone": "Lenox Hill East", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:19Z"}
+{"LocationID": 141, "Borough": "Manhattan", "Zone": "Lenox Hill West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:20Z"}
+{"LocationID": 142, "Borough": "Manhattan", "Zone": "Lincoln Square East", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:21Z"}
+{"LocationID": 143, "Borough": "Manhattan", "Zone": "Lincoln Square West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:22Z"}
+{"LocationID": 144, "Borough": "Manhattan", "Zone": "Little Italy/NoLiTa", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:23Z"}
+{"LocationID": 145, "Borough": "Queens", "Zone": "Long Island City/Hunters Point", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:24Z"}
+{"LocationID": 146, "Borough": "Queens", "Zone": "Long Island City/Queens Plaza", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:25Z"}
+{"LocationID": 147, "Borough": "Bronx", "Zone": "Longwood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:26Z"}
+{"LocationID": 148, "Borough": "Manhattan", "Zone": "Lower East Side", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:27Z"}
+{"LocationID": 149, "Borough": "Brooklyn", "Zone": "Madison", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:28Z"}
+{"LocationID": 150, "Borough": "Brooklyn", "Zone": "Manhattan Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:29Z"}
+{"LocationID": 151, "Borough": "Manhattan", "Zone": "Manhattan Valley", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:30Z"}
+{"LocationID": 152, "Borough": "Manhattan", "Zone": "Manhattanville", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:31Z"}
+{"LocationID": 153, "Borough": "Manhattan", "Zone": "Marble Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:32Z"}
+{"LocationID": 154, "Borough": "Brooklyn", "Zone": "Marine Park/Floyd Bennett Field", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:33Z"}
+{"LocationID": 155, "Borough": "Brooklyn", "Zone": "Marine Park/Mill Basin", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:34Z"}
+{"LocationID": 156, "Borough": "Staten Island", "Zone": "Mariners Harbor", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:35Z"}
+{"LocationID": 157, "Borough": "Queens", "Zone": "Maspeth", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:36Z"}
+{"LocationID": 158, "Borough": "Manhattan", "Zone": "Meatpacking/West Village West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:37Z"}
+{"LocationID": 159, "Borough": "Bronx", "Zone": "Melrose South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:38Z"}
+{"LocationID": 160, "Borough": "Queens", "Zone": "Middle Village", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:39Z"}
+{"LocationID": 161, "Borough": "Manhattan", "Zone": "Midtown Center", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:40Z"}
+{"LocationID": 162, "Borough": "Manhattan", "Zone": "Midtown East", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:41Z"}
+{"LocationID": 163, "Borough": "Manhattan", "Zone": "Midtown North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:42Z"}
+{"LocationID": 164, "Borough": "Manhattan", "Zone": "Midtown South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:43Z"}
+{"LocationID": 165, "Borough": "Brooklyn", "Zone": "Midwood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:44Z"}
+{"LocationID": 166, "Borough": "Manhattan", "Zone": "Morningside Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:45Z"}
+{"LocationID": 167, "Borough": "Bronx", "Zone": "Morrisania/Melrose", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:46Z"}
+{"LocationID": 168, "Borough": "Bronx", "Zone": "Mott Haven/Port Morris", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:47Z"}
+{"LocationID": 169, "Borough": "Bronx", "Zone": "Mount Hope", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:48Z"}
+{"LocationID": 170, "Borough": "Manhattan", "Zone": "Murray Hill", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:02:49Z"}
+{"LocationID": 171, "Borough": "Queens", "Zone": "Murray Hill-Queens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:50Z"}
+{"LocationID": 172, "Borough": "Staten Island", "Zone": "New Dorp/Midland Beach", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:51Z"}
+{"LocationID": 173, "Borough": "Queens", "Zone": "North Corona", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:52Z"}
+{"LocationID": 174, "Borough": "Bronx", "Zone": "Norwood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:53Z"}
+{"LocationID": 175, "Borough": "Queens", "Zone": "Oakland Gardens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:54Z"}
+{"LocationID": 176, "Borough": "Staten Island", "Zone": "Oakwood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:55Z"}
+{"LocationID": 177, "Borough": "Brooklyn", "Zone": "Ocean Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:56Z"}
+{"LocationID": 178, "Borough": "Brooklyn", "Zone": "Ocean Parkway South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:57Z"}
+{"LocationID": 179, "Borough": "Queens", "Zone": "Old Astoria", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:58Z"}
+{"LocationID": 180, "Borough": "Queens", "Zone": "Ozone Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:02:59Z"}
+{"LocationID": 181, "Borough": "Brooklyn", "Zone": "Park Slope", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:00Z"}
+{"LocationID": 182, "Borough": "Bronx", "Zone": "Parkchester", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:01Z"}
+{"LocationID": 183, "Borough": "Bronx", "Zone": "Pelham Bay", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:02Z"}
+{"LocationID": 184, "Borough": "Bronx", "Zone": "Pelham Bay Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:03Z"}
+{"LocationID": 185, "Borough": "Bronx", "Zone": "Pelham Parkway", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:04Z"}
+{"LocationID": 186, "Borough": "Manhattan", "Zone": "Penn Station/Madison Sq West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:05Z"}
+{"LocationID": 187, "Borough": "Staten Island", "Zone": "Port Richmond", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:06Z"}
+{"LocationID": 188, "Borough": "Brooklyn", "Zone": "Prospect-Lefferts Gardens", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:07Z"}
+{"LocationID": 189, "Borough": "Brooklyn", "Zone": "Prospect Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:08Z"}
+{"LocationID": 190, "Borough": "Brooklyn", "Zone": "Prospect Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:09Z"}
+{"LocationID": 191, "Borough": "Queens", "Zone": "Queens Village", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:10Z"}
+{"LocationID": 192, "Borough": "Queens", "Zone": "Queensboro Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:11Z"}
+{"LocationID": 193, "Borough": "Queens", "Zone": "Queensbridge/Ravenswood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:12Z"}
+{"LocationID": 194, "Borough": "Manhattan", "Zone": "Randalls Island", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:13Z"}
+{"LocationID": 195, "Borough": "Brooklyn", "Zone": "Red Hook", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:14Z"}
+{"LocationID": 196, "Borough": "Queens", "Zone": "Rego Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:15Z"}
+{"LocationID": 197, "Borough": "Queens", "Zone": "Richmond Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:16Z"}
+{"LocationID": 198, "Borough": "Queens", "Zone": "Ridgewood", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:17Z"}
+{"LocationID": 199, "Borough": "Bronx", "Zone": "Rikers Island", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:18Z"}
+{"LocationID": 200, "Borough": "Bronx", "Zone": "Riverdale/North Riverdale/Fieldston", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:19Z"}
+{"LocationID": 201, "Borough": "Queens", "Zone": "Rockaway Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:20Z"}
+{"LocationID": 202, "Borough": "Manhattan", "Zone": "Roosevelt Island", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:21Z"}
+{"LocationID": 203, "Borough": "Queens", "Zone": "Rosedale", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:22Z"}
+{"LocationID": 204, "Borough": "Staten Island", "Zone": "Rossville/Woodrow", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:23Z"}
+{"LocationID": 205, "Borough": "Queens", "Zone": "Saint Albans", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:24Z"}
+{"LocationID": 206, "Borough": "Staten Island", "Zone": "Saint George/New Brighton", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:25Z"}
+{"LocationID": 207, "Borough": "Queens", "Zone": "Saint Michaels Cemetery/Woodside", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:26Z"}
+{"LocationID": 208, "Borough": "Bronx", "Zone": "Schuylerville/Edgewater Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:27Z"}
+{"LocationID": 209, "Borough": "Manhattan", "Zone": "Seaport", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:28Z"}
+{"LocationID": 210, "Borough": "Brooklyn", "Zone": "Sheepshead Bay", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:29Z"}
+{"LocationID": 211, "Borough": "Manhattan", "Zone": "SoHo", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:30Z"}
+{"LocationID": 212, "Borough": "Bronx", "Zone": "Soundview/Bruckner", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:31Z"}
+{"LocationID": 213, "Borough": "Bronx", "Zone": "Soundview/Castle Hill", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:32Z"}
+{"LocationID": 214, "Borough": "Staten Island", "Zone": "South Beach/Dongan Hills", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:33Z"}
+{"LocationID": 215, "Borough": "Queens", "Zone": "South Jamaica", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:34Z"}
+{"LocationID": 216, "Borough": "Queens", "Zone": "South Ozone Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:35Z"}
+{"LocationID": 217, "Borough": "Brooklyn", "Zone": "South Williamsburg", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:36Z"}
+{"LocationID": 218, "Borough": "Queens", "Zone": "Springfield Gardens North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:37Z"}
+{"LocationID": 219, "Borough": "Queens", "Zone": "Springfield Gardens South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:38Z"}
+{"LocationID": 220, "Borough": "Bronx", "Zone": "Spuyten Duyvil/Kingsbridge", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:39Z"}
+{"LocationID": 221, "Borough": "Staten Island", "Zone": "Stapleton", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:40Z"}
+{"LocationID": 222, "Borough": "Brooklyn", "Zone": "Starrett City", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:41Z"}
+{"LocationID": 223, "Borough": "Queens", "Zone": "Steinway", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:42Z"}
+{"LocationID": 224, "Borough": "Manhattan", "Zone": "Stuy Town/Peter Cooper Village", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:43Z"}
+{"LocationID": 225, "Borough": "Brooklyn", "Zone": "Stuyvesant Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:44Z"}
+{"LocationID": 226, "Borough": "Queens", "Zone": "Sunnyside", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:45Z"}
+{"LocationID": 227, "Borough": "Brooklyn", "Zone": "Sunset Park East", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:46Z"}
+{"LocationID": 228, "Borough": "Brooklyn", "Zone": "Sunset Park West", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:47Z"}
+{"LocationID": 229, "Borough": "Manhattan", "Zone": "Sutton Place/Turtle Bay North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:48Z"}
+{"LocationID": 230, "Borough": "Manhattan", "Zone": "Times Sq/Theatre District", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:49Z"}
+{"LocationID": 231, "Borough": "Manhattan", "Zone": "TriBeCa/Civic Center", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:50Z"}
+{"LocationID": 232, "Borough": "Manhattan", "Zone": "Two Bridges/Seward Park", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:51Z"}
+{"LocationID": 233, "Borough": "Manhattan", "Zone": "UN/Turtle Bay South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:52Z"}
+{"LocationID": 234, "Borough": "Manhattan", "Zone": "Union Sq", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:53Z"}
+{"LocationID": 235, "Borough": "Bronx", "Zone": "University Heights/Morris Heights", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:54Z"}
+{"LocationID": 236, "Borough": "Manhattan", "Zone": "Upper East Side North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:55Z"}
+{"LocationID": 237, "Borough": "Manhattan", "Zone": "Upper East Side South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:56Z"}
+{"LocationID": 238, "Borough": "Manhattan", "Zone": "Upper West Side North", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:57Z"}
+{"LocationID": 239, "Borough": "Manhattan", "Zone": "Upper West Side South", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:03:58Z"}
+{"LocationID": 240, "Borough": "Bronx", "Zone": "Van Cortlandt Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:03:59Z"}
+{"LocationID": 241, "Borough": "Bronx", "Zone": "Van Cortlandt Village", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:00Z"}
+{"LocationID": 242, "Borough": "Bronx", "Zone": "Van Nest/Morris Park", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:01Z"}
+{"LocationID": 243, "Borough": "Manhattan", "Zone": "Washington Heights North", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:02Z"}
+{"LocationID": 244, "Borough": "Manhattan", "Zone": "Washington Heights South", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:03Z"}
+{"LocationID": 245, "Borough": "Staten Island", "Zone": "West Brighton", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:04Z"}
+{"LocationID": 246, "Borough": "Manhattan", "Zone": "West Chelsea/Hudson Yards", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:04:05Z"}
+{"LocationID": 247, "Borough": "Bronx", "Zone": "West Concourse", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:06Z"}
+{"LocationID": 248, "Borough": "Bronx", "Zone": "West Farms/Bronx River", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:07Z"}
+{"LocationID": 249, "Borough": "Manhattan", "Zone": "West Village", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:04:08Z"}
+{"LocationID": 250, "Borough": "Bronx", "Zone": "Westchester Village/Unionport", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:09Z"}
+{"LocationID": 251, "Borough": "Staten Island", "Zone": "Westerleigh", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:10Z"}
+{"LocationID": 252, "Borough": "Queens", "Zone": "Whitestone", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:11Z"}
+{"LocationID": 253, "Borough": "Queens", "Zone": "Willets Point", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:12Z"}
+{"LocationID": 254, "Borough": "Bronx", "Zone": "Williamsbridge/Olinville", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:13Z"}
+{"LocationID": 255, "Borough": "Brooklyn", "Zone": "Williamsburg (North Side)", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:14Z"}
+{"LocationID": 256, "Borough": "Brooklyn", "Zone": "Williamsburg (South Side)", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:15Z"}
+{"LocationID": 257, "Borough": "Brooklyn", "Zone": "Windsor Terrace", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:16Z"}
+{"LocationID": 258, "Borough": "Queens", "Zone": "Woodhaven", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:17Z"}
+{"LocationID": 259, "Borough": "Bronx", "Zone": "Woodlawn/Wakefield", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:18Z"}
+{"LocationID": 260, "Borough": "Queens", "Zone": "Woodside", "service_zone": "Boro Zone", "timestamp": "2023-01-01T00:04:19Z"}
+{"LocationID": 261, "Borough": "Manhattan", "Zone": "World Trade Center", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:04:20Z"}
+{"LocationID": 262, "Borough": "Manhattan", "Zone": "Yorkville East", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:04:21Z"}
+{"LocationID": 263, "Borough": "Manhattan", "Zone": "Yorkville West", "service_zone": "Yellow Zone", "timestamp": "2023-01-01T00:04:22Z"}
+{"LocationID": 264, "Borough": "Unknown", "Zone": "NV", "service_zone": "N/A", "timestamp": "2023-01-01T00:04:23Z"}
+{"LocationID": 265, "Borough": "Unknown", "Zone": "Outside of NYC", "service_zone": "N/A", "timestamp": "2023-01-01T00:04:24Z"}

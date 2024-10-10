@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "flink" : {
+    "format" : "flexible-json",
+    "path" : "${DATA_PATH}/zones.jsonl",
+    "source.monitor-interval" : 1,
+    "connector" : "filesystem"
+  },
+  "table" : {
+    "type" : "source",
+    "primary-key" : ["LocationID"],
+    "timestamp" : "timestamp",
+    "watermark-millis" : "1"
+  }
+}

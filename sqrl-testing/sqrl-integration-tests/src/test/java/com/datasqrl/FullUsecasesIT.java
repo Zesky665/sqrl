@@ -171,6 +171,7 @@ public class FullUsecasesIT {
           .rootDir(rootDir)
           .param(param)
           .build();
+
       //test goal is accomplished by above, but run goal needs extra setup
       DatasqrlRun run = null;
       if (param.getGoal().equals("run")) {

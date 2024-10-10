@@ -1,0 +1,52 @@
+IMPORT taxi-data.Green;
+IMPORT taxi-data.Zones;
+
+validTrips := SELECT * FROM Green
+                WHERE lpep_pickup_datetime is not NULL
+                AND lpep_dropoff_datetime is not NULL;
+
+taxi_Zones := SELECT
+                  LocationID,
+                  CASE
+                      WHEN Borough = 'Unknown' THEN Zone
+                      ELSE Borough || ' ' || Zone
+                  END AS Location
+              FROM Zones;
+
+enriched_Trips := SELECT g.VendorID,
+                        g.lpep_pickup_datetime,
+                        g.lpep_dropoff_datetime,
+                        za.Location as PULocation,
+                        zb.Location as DOLocation,
+                        g.trip_distance,
+                        g.total_amount
+                        FROM Green as g
+                        JOIN taxi_Zones as za
+                        ON g.PULocationID = za.LocationID
+                        JOIN taxi_Zones as zb
+                        ON g.DOLocationID = zb.LocationID;
+
+TripsByPickupLocation := SELECT PULocationID as pickupLocation, count(*) as fromPULoc FROM validTrips
+                         GROUP BY PULocationID
+                         ORDER BY count(*) DESC;
+
+TripsByDropoffLocation := SELECT DOLocationID as dropoffLocation, count(*) as fromDOLoc  FROM validTrips
+                         GROUP BY DOLocationID
+                         ORDER BY count(*) DESC;
+
+TotalMalformedRows := SELECT count(*) as noPassengers FROM validTrips
+                      WHERE passenger_count = 0 OR
+                            passenger_count is NULL;
+
+LocationsPerBorough := SELECT borough as Borough, count(*) as locations FROM zones
+                        GROUP BY Borough
+                        ORDER BY count(*);
+
+/*+test */
+
+TripsByDropoffLocationTest := SELECT dropoffLocation, fromDOLoc
+                              FROM TripsByDropoffLocation
+                              ORDER BY fromDOLoc DESC
+                              LIMIT 5;
+
+

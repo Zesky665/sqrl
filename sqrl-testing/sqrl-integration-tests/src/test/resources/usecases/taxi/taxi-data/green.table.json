@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "flink" : {
+    "format" : "flexible-json",
+    "path" : "${DATA_PATH}/green.jsonl",
+    "source.monitor-interval" : 1,
+    "connector" : "filesystem"
+  },
+  "table" : {
+    "type" : "source",
+    "primary-key" : ["lpep_pickup_datetime", "lpep_dropoff_datetime"],
+    "timestamp" : "lpep_dropoff_datetime",
+    "watermark-millis" : "1"
+  }
+}
